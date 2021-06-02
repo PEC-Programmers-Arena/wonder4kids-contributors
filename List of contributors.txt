@@ -10,3 +10,4 @@ List of contributors:
 7) Piyush Bansal [Bpiyush544]
 8) Shaurya Duhan [No Github id]
 9) Harshpreet Singh Johar [harshjohar]
+10) Jaagrit Arora [jaagrit]
